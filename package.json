@@ -1,0 +1,19 @@
+{
+  "name": "random-rainbow-git-diary",
+  "version": "1.0.0",
+  "description": "Random Rainbow is a project to make random connections of queer video artists.  this project is also a  diary of my first time making a website .",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.18.2",
+    "http-server": "^14.1.1",
+    "next": "^13.1.6",
+    "react-dom": "^18.2.0",
+    "serve-static": "^1.15.0"
+  }
+}
