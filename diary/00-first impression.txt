@@ -5,4 +5,4 @@ from the not much knowlodging on JavaScript, I thought I could make it through b
 from a online course to create your own code from scratch takes a long road
 because i am not done with the online courses and still have a lot to learn with them
 but the issues of creating my own project i am facing some challenges 
-to understand of a bit of vscode, to understand a bit of github, understand a bit of git, to find a bit of code organization, to face some of bugs and new challenges.
+to understand of a bit of vscode, to understand a bit of github, understand a bit of git, to find a bit of code organization, to face some of bugs and new challenges
